@@ -5,3 +5,4 @@
 .prettierignore
 INSTRUCTIONS.MD
 node_modules
+.idea
